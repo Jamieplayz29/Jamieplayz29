@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jamieplayz29
-- 👀 I’m interested in S and Discord bots and seperately OpenGL 
+- 👀 I’m interested in Discord bots and seperately OpenGL 
 - 🌱 I’m currently learning C/C++
 
 <!---
