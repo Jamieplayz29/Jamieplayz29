@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jamieplayz29
-- 👀 I’m interested in Discord bots and seperately OpenGL 
-- 🌱 I’m currently learning C/C++
+- 👀 I’m interested in Discord bots 
+- 🌱 I’m currently using / learning JavaScript and NodeJS
 
 <!---
 Jamieplayz29/Jamieplayz29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
